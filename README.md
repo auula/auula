@@ -27,7 +27,7 @@
 <p ><img src="https://komarev.com/ghpvc/?username=higker">&nbsp;&nbsp;<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dauula&longCache=true"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
 
-[![](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=White)](#)
+[![](https://img.shields.io/badge/C/C++-000000?style=flat-square&logo=C&logoColor=White)](#)
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)](#)
 [![](https://img.shields.io/badge/Go-blue?style=flat-square&logo=Go&logoColor=white)](#)
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=White)](#)
